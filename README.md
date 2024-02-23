@@ -1,5 +1,5 @@
 # Exploring the Dynamics of Crime in South Africa (2011-2023): A Comprehensive Crime Analysis Project
-##Introduction
+## Introduction
 
 This report delves into a comprehensive analysis of crime trends in South Africa spanning from 2010 to 2023. The dataset encompasses essential parameters including 'Province,' 'Crime Category,' 'Year,' and 'Total Crime.' The primary aim of this analysis is to unearth valuable insights into the intricacies of crime dynamics, facilitating informed decision-making for law enforcement agencies, policymakers, and various stakeholders.
 
