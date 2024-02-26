@@ -18,22 +18,23 @@ Temporal Analysis: Examined year-on-year variations and long-term trends in crim
 Spatial Analysis: Investigated geographical variations in crime prevalence across provinces.
 Crime Category Analysis: Explored the distribution of different crime types over time.
 
-Key Findings:
+## Key Findings:
 
-Temporal Trends:
+## Temporal Trends:
 
-Identified fluctuations in crime rates over the years, highlighting periods of escalation and decline.
-Detected significant trends or patterns indicative of underlying socio-economic or environmental factors influencing crime dynamics including 2020/2022 pandamic event.
+Analysis of crime trends over the years reveals a notable stability in the linear trend, with a discernible increase in reported crimes from 2011 to 2018, followed by a subsequent decline. This downward trajectory is particularly pronounced post-2018, potentially influenced by a decrease in property-related offenses and other serious crimes. Notably, there was a significant drop in crime rates from 2020 to 2021, coinciding with the onset of the COVID-19 pandemic during that period.
 
-Spatial Distribution:
+## Provincial Crime Distribution:
 
-Observed variations in crime prevalence across different provinces, potentially linked to demographic, economic, and infrastructural disparities.
-Identified hotspots or regions with disproportionately high crime rates, necessitating targeted interventions.
+The province of Gauteng exhibits the highest incidence of crime, followed by the Western Cape and KwaZulu-Natal, respectively. These provinces, characterized by large populations and major urban centers, demonstrate a strong correlation between population density and crime rates. While crime prevalence is particularly acute in these top three provinces, the analysis underscores that crime remains a pervasive issue across the nation, albeit with variations influenced by demographic and urban factors.
 
-Crime Category Insights:
+## Crime Category Insights:
 
-Analyzed the distribution of crime categories to discern prevalent types of criminal activities.
-Investigated any shifts or changes in the composition of crime types over the study period.
+Contact crimes emerge as the most prevalent and widely reported category of criminal activity in the country, accounting for approximately 600,000 incidents over the study period. This category encompasses offenses such as assault, battery, robbery, sexual assault, homicide, and kidnapping. Following closely behind are property-related crimes, which comprise approximately 500,000 reported incidents over the same period.
+
+## Total Crime Distribution:
+
+A right-skewed distribution of total crime suggests that while certain provinces or time periods may experience disproportionately high crime rates, the majority exhibit lower levels of criminal activity. This distribution pattern implies the presence of mitigating factors, such as effective law enforcement strategies, community initiatives, or favorable socio-economic conditions, which contribute to maintaining relatively lower crime rates in the majority of cases.
 
 
 ## Limitations
