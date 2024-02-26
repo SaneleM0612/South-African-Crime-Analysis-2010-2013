@@ -12,6 +12,7 @@ Crime Category: Classification of crimes based on type.
 Year: Time period ranging from 2010 to 2023.
 Total Crime: Aggregate count of reported crimes within a specific category, province, and year.
 
+
 ## Methodology
 Exploratory Data Analysis (EDA): Conducted to understand data distributions, trends, and patterns.
 Temporal Analysis: Examined year-on-year variations and long-term trends in crime rates.
