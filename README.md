@@ -18,7 +18,7 @@ Temporal Analysis: Examined year-on-year variations and long-term trends in crim
 Spatial Analysis: Investigated geographical variations in crime prevalence across provinces.
 Crime Category Analysis: Explored the distribution of different crime types over time.
 
-## Key Findings:
+## Key Findings
 
 ## Temporal Trends:
 
@@ -41,11 +41,11 @@ A right-skewed distribution of total crime suggests that while certain provinces
 The analysis is constrained by the availability and quality of data, potentially limiting the depth of insights.
 External factors such as reporting biases, legislative changes, and socio-political developments may influence crime trends but are not explicitly accounted for in the analysis.
 
-## Future Directions:
+## Future Directions
 Expand the analysis to incorporate additional datasets and variables for a more comprehensive understanding of crime dynamics.
 Utilize advanced analytical techniques such as predictive modeling and machine learning to forecast future crime trends and support proactive interventions.
 
-## Conclusion:
+## Conclusion
 This analysis provides valuable insights into the multifaceted nature of crime in South Africa from 2010 to 2023. By leveraging data-driven approaches, stakeholders can make informed decisions to enhance public safety, address community concerns, and foster a secure and prosperous society.
 
 
