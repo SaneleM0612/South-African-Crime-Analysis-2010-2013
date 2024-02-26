@@ -20,19 +20,19 @@ Crime Category Analysis: Explored the distribution of different crime types over
 
 ## Key Findings
 
-## Temporal Trends:
+## Temporal Trends:-
 
 Analysis of crime trends over the years reveals a notable stability in the linear trend, with a discernible increase in reported crimes from 2011 to 2018, followed by a subsequent decline. This downward trajectory is particularly pronounced post-2018, potentially influenced by a decrease in property-related offenses and other serious crimes. Notably, there was a significant drop in crime rates from 2020 to 2021, coinciding with the onset of the COVID-19 pandemic during that period.
 
-## Provincial Crime Distribution:
+## Provincial Crime Distribution:-
 
 The province of Gauteng exhibits the highest incidence of crime, followed by the Western Cape and KwaZulu-Natal, respectively. These provinces, characterized by large populations and major urban centers, demonstrate a strong correlation between population density and crime rates. While crime prevalence is notably severe in these top three provinces, the analysis correlation matrix underscores that crime remains a pervasive issue across the nation, the variations of crimes in around the country is influenced by demographic and urban factors.
 
-## Crime Category Insights:
+## Crime Category Insights:-
 
 Contact crimes emerge as the most prevalent and widely reported category of criminal activity in the country, accounting for approximately 600,000 incidents over the study period. This category encompasses offenses such as assault, battery, robbery, sexual assault, homicide, and kidnapping. Following closely behind are property-related crimes, which comprise approximately 500,000 reported incidents over the same period.
 
-## Total Crime Distribution:
+## Total Crime Distribution:-
 
 A right-skewed distribution of total crime suggests that while certain provinces or time periods may experience disproportionately high crime rates, the majority exhibit lower levels of criminal activity. This distribution pattern implies the presence of mitigating factors, such as effective law enforcement strategies, community initiatives, or favorable socio-economic conditions, which contribute to maintaining relatively lower crime rates in the majority of cases.
 
