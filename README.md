@@ -18,17 +18,19 @@ Temporal Analysis: Examined year-on-year variations and long-term trends in crim
 Spatial Analysis: Investigated geographical variations in crime prevalence across provinces.
 Crime Category Analysis: Explored the distribution of different crime types over time.
 
-## Temporal Trends:
+Key Findings:
+
+Temporal Trends:
 
 Identified fluctuations in crime rates over the years, highlighting periods of escalation and decline.
 Detected significant trends or patterns indicative of underlying socio-economic or environmental factors influencing crime dynamics including 2020/2022 pandamic event.
 
-## Spatial Distribution:
+Spatial Distribution:
 
 Observed variations in crime prevalence across different provinces, potentially linked to demographic, economic, and infrastructural disparities.
 Identified hotspots or regions with disproportionately high crime rates, necessitating targeted interventions.
 
-## Crime Category Insights:
+Crime Category Insights:
 
 Analyzed the distribution of crime categories to discern prevalent types of criminal activities.
 Investigated any shifts or changes in the composition of crime types over the study period.
