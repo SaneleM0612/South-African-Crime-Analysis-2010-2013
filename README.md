@@ -26,7 +26,7 @@ Analysis of crime trends over the years reveals a notable stability in the linea
 
 ## Provincial Crime Distribution:
 
-The province of Gauteng exhibits the highest incidence of crime, followed by the Western Cape and KwaZulu-Natal, respectively. These provinces, characterized by large populations and major urban centers, demonstrate a strong correlation between population density and crime rates. While crime prevalence is particularly acute in these top three provinces, the analysis underscores that crime remains a pervasive issue across the nation, albeit with variations influenced by demographic and urban factors.
+The province of Gauteng exhibits the highest incidence of crime, followed by the Western Cape and KwaZulu-Natal, respectively. These provinces, characterized by large populations and major urban centers, demonstrate a strong correlation between population density and crime rates. While crime prevalence is notably severe in these top three provinces, the analysis correlation matrix underscores that crime remains a pervasive issue across the nation, the variations of crimes in around the country is influenced by demographic and urban factors.
 
 ## Crime Category Insights:
 
