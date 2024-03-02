@@ -53,7 +53,7 @@ This analysis provides valuable insights into the multifaceted nature of crime i
 Total Crime Distribution
 ![Screenshot 2024-03-02 055337](https://github.com/SaneleM0612/South-African-Crime-Analysis-2010-2013/assets/148612772/530190d4-a010-4814-a7d8-db79ce50c9ef)
 ![Screenshot 2024-03-02 055454](https://github.com/SaneleM0612/South-African-Crime-Analysis-2010-2013/assets/148612772/7a191c52-be55-4199-b0fa-ef60b6ddd1ac)
-Total Crime change in the country over time 
+
 ![Screenshot 2024-03-02 055622](https://github.com/SaneleM0612/South-African-Crime-Analysis-2010-2013/assets/148612772/d7692d44-d7d2-40c0-9595-53595b23e172)
 ![Screenshot 2024-03-02 055706](https://github.com/SaneleM0612/South-African-Crime-Analysis-2010-2013/assets/148612772/0ae10c2f-b422-465e-a729-7d4e45df4c9d)
 ![Screenshot 2024-03-02 055809](https://github.com/SaneleM0612/South-African-Crime-Analysis-2010-2013/assets/148612772/71468010-5812-461e-ab95-09aeb4451276)
